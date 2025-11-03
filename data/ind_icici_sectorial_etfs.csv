@@ -1,14 +1,15 @@
-Symbol,Sector
-AUTOIETF,Auto
-ICICIBANK,Bank
-ICICIBANKP,Private Bank
-ICICIPSUB,PSU Bank
-ICICICONSU,Consumption
-ICICIFIN,Financial Services
-ICICIFMCG,FMCG
-HEALTHIETF,Healthcare
-ICICIPHARM,Pharma
-ITIETF,IT
-ICICIMETAL,Metal
-ICICIREAL,Realty
-ICICIINFRA,Infrastructure
+ETF Name,Sector,Symbol,Series,ISIN Code
+ICICI Prudential Nifty 500 ETF,Benchmark,ICICI500,ET,INF846K01111
+ICICI Prudential Nifty Auto ETF,Auto,AUTOIETF,ET,INF846K01137
+ICICI Prudential Nifty Bank ETF,Bank,BANKIETF,ET,INF846K01301
+ICICI Prudential Nifty Pvt Bank ETF,Private Bank,PVTBKIETF,ET,INF846K01848
+ICICI Prudential Nifty PSU Bank ETF,PSU Bank,PSUBKIETF,ET,INF846K01723
+ICICI Prudential Nifty Consumption ETF,Consumption,CONSIETF,ET,INF846K01897
+ICICI Prudential Nifty Fin Service ETF,Financial Services,FINIETF,ET,INF846K01236
+ICICI Prudential Nifty FMCG ETF,FMCG,FMCGIETF,ET,INF846K01202
+ICICI Prudential Nifty Healthcare ETF,Healthcare,HEALTHIETF,ET,INF846K01673
+ICICI Prudential Nifty Pharma ETF,Pharma,PHARMAIETF,ET,INF846K01913
+ICICI Prudential Nifty IT ETF,Information Technology,ITIETF,ET,INF846K01061
+ICICI Prudential Nifty Metal ETF,Metals & Mining,METALIETF,ET,INF846K01194
+ICICI Prudential Nifty Realty ETF,Realty,REALEIETF,ET,INF846K01665
+ICICI Prudential Nifty Infra ETF,Infrastructure,INFRAIETF,ET,INF846K01228
